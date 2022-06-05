@@ -48,6 +48,7 @@
         android:layout_width="192dp"
         android:layout_height="68dp"
         android:layout_marginTop="96dp"
+        android:background="@drawable/botoncircular"
         android:text="Recuperar"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"

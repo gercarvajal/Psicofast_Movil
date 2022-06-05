@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:backgroundTint="@color/cardview_shadow_end_color"
     android:textAlignment="center"
     tools:context=".MainActivity">
 
@@ -54,9 +55,12 @@
         android:layout_width="190dp"
         android:layout_height="61dp"
         android:layout_marginTop="48dp"
+        android:background="@drawable/botoncircular"
+        android:backgroundTint="@color/cardview_shadow_end_color"
         android:text="Ingresar"
         android:textAlignment="center"
         android:textSize="24sp"
+        app:iconTint="#00FFFFFF"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"

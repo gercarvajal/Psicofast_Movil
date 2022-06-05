@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/botoncircular.xml" value="0.284" />
         <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_menu_principal.xml" value="0.4" />
       </map>

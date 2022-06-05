@@ -26,8 +26,8 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onClick(View v) {
-                //Intent i= new Intent( MainActivity.this,MenuPrincipal.class);
-               // startActivity(i);
+                Intent i= new Intent( MainActivity.this,MenuPrincipal.class);
+                startActivity(i);
                 Toast.makeText (getApplicationContext(),
                                 "Pulsaste el boton Ingresar",Toast.LENGTH_LONG)
                         .show();
